@@ -1,4 +1,4 @@
-# ID do Bug: BUG-001
+# **ID do Bug**: BUG-001
 
 **Título**: Link "Wish list" na barra lateral não executa nenhuma ação ao ser clicado
 
@@ -6,7 +6,7 @@
 
 **Prioridade**: Alta (Impacto na experiência de retenção do usuário)
 
-**Ambiente**: Windows 10, Google Chrome (Versão mais recente)
+**Ambiente**: Linux, Mozilla Fire Fox 146.0 (64-bits)
 
 **URL**: https://sauce-demo.myshopify.com/
 
