@@ -1,0 +1,25 @@
+## ID do Bug: BUG-001
+
+**Título**: Link "Wish list" na barra lateral não executa nenhuma ação ao ser clicado
+
+**Severidade**: Média (Funcionalidade visível, mas inoperante)
+
+**Prioridade**: Alta (Impacto na experiência de retenção do usuário)
+
+**Ambiente**: Windows 10, Google Chrome (Versão mais recente)
+
+**URL**: https://sauce-demo.myshopify.com/
+
+**Descrição**: Ao navegar pela página inicial e tentar acessar a lista de desejos através do menu lateral, o sistema não apresenta nenhuma reação, permanecendo na mesma página sem exibir mensagens de erro ou redirecionar o usuário.
+
+**Pré-condições**: - Estar na página inicial do site.
+
+**Passos para Reproduzir**: 1. Clicar na opção "Wish list" presente na "Home page".
+
+**Resultado Esperado**: O usuário deve ser redirecionado para a página de lista de desejos ou visualizar um pop-up confirmando que o item foi adicionado/exibindo a lista.
+
+**Resultado Atual**: Nada acontece após o clique. O link parece estar quebrado ou não mapeado para uma função ativa.
+
+**Evidência**: https://drive.google.com/file/d/15OHKkKR7n62ETRk9s54-UuFfzfgVtK71/view?usp=sharing
+
+---
