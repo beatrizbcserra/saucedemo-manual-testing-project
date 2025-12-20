@@ -7,8 +7,8 @@
   1. Acessar o link "Sign up" no menu inicial.
   2. Completar o campo "First Name".
   3. Completar o campo "Last Name".
-  4. Completar o campo "Email Adress".
-  5. Completar o campo "Password".
+  4. Completar o campo "Email Adress" (Ex: Email Adress: teste@email.com).
+  5. Completar o campo "Password"(Ex: Password: 1234!).
   6. Clicar no botão [Create].
 - **Resultado Esperado:** O usuário deve ser redirecionado para a home page.
 
