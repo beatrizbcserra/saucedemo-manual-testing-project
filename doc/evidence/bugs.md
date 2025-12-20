@@ -40,7 +40,7 @@ ou visualizar um pop-up confirmando que o item foi adicionado/exibindo a lista.
 
 **Descrição**: Ao clicar na opção "Refer a friend" localizada no menu de navegação lateral, o sistema não executa nenhuma ação. Não há redirecionamento para um formulário de indicação, nem abertura de pop-up ou mensagens de erro.
 
-**Pré-condições**: - Estar na página inicial ou em qualquer página que exiba o menu lateral.
+**Pré-condições**: Estar na página inicial ou em qualquer página que exiba o menu lateral.
 
 **Passos para Reproduzir**: 1. Clicar no link "Refer a friend" presente na "Home Page".
 
