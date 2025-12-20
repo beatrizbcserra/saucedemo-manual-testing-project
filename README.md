@@ -21,7 +21,7 @@ Olá! Sou a **Beatriz Serra**, formada em Ciência e Tecnologia pela UFVJM e esp
 - **Gestão de Testes:** GitHub (Issues e Wiki)
 - **Documentação:** Markdown
 - **Ambiente de Teste:** Mozilla Firefox (Web)
-- **Website de Teste:** [SauceDemo][(https://www.saucedemo.com/)](https://sauce-demo.myshopify.com/)
+- **Website de Teste:** [SauceDemo] [(https://www.saucedemo.com/)](https://sauce-demo.myshopify.com/)
 
 ---
 
