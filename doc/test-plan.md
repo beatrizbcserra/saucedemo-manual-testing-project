@@ -40,7 +40,7 @@ Os testes serão executados inicialmente de forma **Manual**, seguindo a técnic
 ---
 
 ## 5. Critérios de Aceite e Passagem
-- 100% dos Casos de Teste críticos (Caminho Feliz) devem passar.
+- 100% dos Casos de Teste críticos devem passar.
 - Nenhum bug de severidade "Crítica" ou "Alta" deve estar aberto no momento da entrega.
 - O fluxo de checkout deve ser concluído sem erros de script na console.
 
