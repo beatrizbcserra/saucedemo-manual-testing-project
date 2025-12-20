@@ -35,7 +35,7 @@ Os testes serão executados inicialmente de forma **Manual**, seguindo a técnic
 ## 4. Ambiente de Teste
 - **Dispositivo:** Notebook (Windows)
 - **Navegadores:** Firefox (146.0 (64-bits)).
-- **URL:** [https://www.saucedemo.com/](https://www.saucedemo.com/)
+- **URL:** https://sauce-demo.myshopify.com/
 
 ---
 
