@@ -2,15 +2,19 @@
 
 ## CT-01: O usuário consegue realizar o cadastro com sucesso 
 **Objetivo:** Verificar se um usuário válido consegue ser cadastrado na área Sign up.
-- **Pré-condição:** Estar na página inicial "https://sauce-demo.myshopify.com".
+- **Pré-condição:**
+  - Usuário não cadastrado
+  - Estar na página inicial "https://sauce-demo.myshopify.com".
 - **Passos:**
   1. Acessar o link "Sign up" no menu inicial.
-  2. Completar o campo "First Name".
-  3. Completar o campo "Last Name".
-  4. Completar o campo "Email Adress" (Ex: Email Adress: teste@email.com).
-  5. Completar o campo "Password"(Ex: Password: 1234!).
+  2. Completar o campo "First Name" com um valor válido.
+  3. Completar o campo "Last Name" com um valor válido.
+  4. Completar o campo "Email Adress" com um valor válido (Ex. Email Adress: teste@email.com)
+  5. Completar o campo "Password" com uma senha válida (Ex. Password: 1234!).
   6. Clicar no botão [Create].
-- **Resultado Esperado:** O usuário deve ser redirecionado para a home page.
+- **Resultado Esperado:**
+  - O sistema deve cadastrar o usuário com sucesso.
+  - O usuário deve ser redirecionado para a página inicial (Home).
 
 ---
 
