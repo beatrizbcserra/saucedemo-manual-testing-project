@@ -1,23 +1,17 @@
-# Quality Assurance: Sauce Demo E-commerce Project
+# 🧪 Quality Assurance: Sauce Demo E-commerce Project
 
-O presente projeto contém a metodologia, estrátegia e a execução dos testes para a plataforma **Sauce Demo (Swag Labs)**. O objetivo inicial do projeto é a garantia de qualidade atráves de **Testes Manuais**, servindo como base para uma futura implementação de automação.
-
----
-
-## Sobre Mim
-Olá! Sou a **Beatriz Serra**, formada em Ciência e Tecnologia pela UFVJM e especializada em QA pela Mate Academy. Sou apaixonada por garantir a melhor experiência de utilizador através de processos rigorosos de teste.
+📕 O presente projeto contém a metodologia, estratégia e a execução dos testes para a plataforma **Sauce Demo (Swag Labs)**. O objetivo inicial do projeto é a garantia de qualidade através de **Testes Manuais**, servindo como base para uma futura implementação de automação.
 
 ---
 
-## Objetivos do Projeto
+## 🎯 Objetivos do Projeto
 - Estruturar um Plano de Testes detalhado para o fluxo crítico do e-commerce.
 - Documentar Casos de Teste (Test Cases) cobrindo cenários positivos e negativos.
 - Reportar e gerir defeitos (Bugs) utilizando as melhores práticas do mercado.
-- Preparar o ambiente para futura automação com Cypress ou Playwright.
 
 ---
 
-## Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 - **Gestão de Testes:** GitHub (Issues e Wiki)
 - **Documentação:** Markdown
 - **Ambiente de Teste:** Mozilla Firefox (Web)
