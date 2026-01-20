@@ -23,7 +23,6 @@
 
 - `doc/test-plan.md`: Estratégia, escopo e critérios de aceite.
 - `doc/test-cases.md`: Lista detalhada de cenários de teste passo a passo.
-- `evidence/manual/`: Capturas de ecrã (screenshots) comprovando a execução dos testes.
 - `evidence/bugs/`: Relatórios detalhados de bugs encontrados.
 
 ---
