@@ -51,3 +51,31 @@
 - **Resultado Esperado:** O usuário deve conseguir indicar um amigo pelo link "Refer a friend".
 
 ---
+
+---
+
+## CT-05: O usuário não consegue realizar o checkout com informações não válidas de dados bancários". 
+**Objetivo:** Verificar se um usuário válido consegue realizar o checkout com infmorções não validas de dados bancários".
+- **Pré-condição:** Ter feito o Log in no site "https://sauce-demo.myshopify.com".
+- **Passos:**
+  1. Clicar em um dos itens presentes na "Home Page".
+  2. Clicar no botão [ADD TO CART]
+  3. Clicar no link "MY Cart"
+  4. Clicar no botão [CHECK OUT].
+  5. Completar os campos de endereço.
+  6. Completar os campos de pagamento com informações não validas
+  7. Clicar no botão [Pay now]
+- **Resultado Esperado:** O usuário não deve conseguir realizar o checkout com infmorções não validas de dados bancários".
+
+---
+
+## CT-06: O usuário não consegue acessar o "My Cart" pela página do item adicionado ao carrinho". 
+**Objetivo:** Verificar se um usuário válido consegue acessar o "My Cart" pela página do item adicionado ao carrinho.
+- **Pré-condição:** Ter feito o Log in no site "https://sauce-demo.myshopify.com".
+- **Passos:**
+  1. Clicar em um dos itens presentes na "Home Page".
+  2. Clicar no botão [ADD TO CART]
+  3. Clicar no link "MY Cart"
+- **Resultado Esperado:** O usuário deve deve conseguir acessar o "My Cart" pela página do item adicionado ao carrinho".
+
+---
