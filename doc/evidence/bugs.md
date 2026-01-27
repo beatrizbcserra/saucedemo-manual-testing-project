@@ -49,3 +49,33 @@ ou visualizar um pop-up confirmando que o item foi adicionado/exibindo a lista.
 **Resultado Atual**: O link permanece estático. O cursor do mouse muda para o símbolo de seleção, mas o clique não dispara nenhum evento no sistema.
 
 **Evidência**: https://drive.google.com/file/d/1J3BgoMmOmsZjTn7wgYmOlC59vBU_ljNb/view?usp=sharing
+
+---
+
+# **ID do Bug**: BUG-003
+
+**Título**: O usuário não consegue acessar o "My Cart" pela página do item adicionado ao carrinho".
+
+**Severidade**: Alta (Funcionalidade de negócio indisponível)
+
+**Prioridade**: Média/Alta (Impacto na experiência do usuário na compra do produto)
+
+**Ambiente**: Windows, OperaGX 126.0.5750.56 (64-bits)
+
+**URL**: https://sauce-demo.myshopify.com/
+
+**Descrição**: Ao clicar no botão [ADD TO CART] e posteriormente no link "My Cart" pela página do produto, o sistema não conclui o carregamento. Não há redirecionamento para uma página, nem a abertura de pop-up ou mensagens de erro.
+
+**Pré-condições**: Usuário cadastrado.
+
+**Passos para Reproduzir**:
+
+1. Clicar em um dos itens presentes na "Home Page".
+2. Clicar no botão [ADD TO CART]
+3. Clicar no link "MY Cart"
+
+**Resultado Esperado**: O usuário deve deve conseguir acessar o "My Cart" pela página do item adicionado ao carrinho".
+
+**Resultado Atual**: O usuário não consegue acessar o "My Cart" pela pagina do item adicionado ao carrinho".
+
+**Evidência**: https://drive.google.com/file/d/15c0HgnNG4Zk3aFAa1KycTjjlH9rAAD18/view?usp=sharing
